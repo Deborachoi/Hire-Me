@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: #D2A8E3;
+}
+body {
+    background-color: #d8e7ff;
+}
+h2 {
+    font-size: 25px;
+}
+h3 {
+    font-size: 25px;
+}
+img {
+    border: double white 12px;
+    height: 300px;
+     width: 300px;
+}
